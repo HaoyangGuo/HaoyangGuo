@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Code Contributions During My Internship at Seismic - Summer 2023
+![Heatmap at Seismic](seismic-intern-gh-profile.jpeg)
+
 <!--
 **HaoyangGuo/HaoyangGuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
